@@ -1,0 +1,20 @@
+FIX Upload
+
+BUKA FOLDER XAMPP CARI FILE php.ini di folder php
+
+post_max_size=100M
+upload_max_filesize=100M
+
+max_input_time=600
+
+max_execution_time=300
+
+
+
+
+
+
+
+©Elpin
+©Owen
+©Iqbal
